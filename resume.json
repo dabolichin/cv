@@ -5,7 +5,7 @@
     "version": "0.1.0"
   },
   "info": {
-    "label": "Engineering Manager, Systems Architect, Developer",
+    "label": "Engineering Manager, Systems Architect",
     "brief": "Solving problems and making someone's life better - this is what I'm passionate about. I am achieving this by building classy software and improving the ways of how this can be done. I am crazy about quality and automation, most of the things in IT just cannot be done in other way. Continuous improvement is another key factor in my life, this is why I never stop learning and applying new knowledge everywhere I can.",
     "image": ""
   },
@@ -144,7 +144,7 @@
       },
       {
         "employer": "Informacinių Projektų Sistemos",
-        "url": "",
+        "url": "#",
         "position": "Developer, Team leader",
         "summary": "Informacinių Projektų Sistemos (IPS) was a small Lithuania company offering insurers agile and feature-rich insurance solution for Policy and Claims administration (both P&C and Life insurance) - DIS. Product was used by leading Lithuanian and Latvian insurance companies (ERGO LT, ERGO LV, PZU LT).<br>I have started in IPS as a developer responsible for variety of inner components and later started leading small team of developers and acting as a main customers' contact for technical details. Later IPS was merged with Assecco Lithuania.",
         "start": "2003-11",
