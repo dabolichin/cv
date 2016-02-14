@@ -1,0 +1,413 @@
+{
+  "name": "Dmitrij Abolichin",
+  "meta": {
+    "format": "FRESH@1.7.4",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Engineering Manager, Systems Architect, Developer",
+    "brief": "Solving problems and making someone's life better - this is what I'm passionate about. I am achieving this by building classy software and improving the ways of how this can be done. I am crazy about quality and automation, most of the things in IT just cannot be done in other way. Continuous improvement is another key factor in my life, this is why I never stop learning and applying new knowledge everywhere I can.",
+    "image": ""
+  },
+  "contact": {
+    "website": "https://twitter.com/dirolwhite",
+    "phone": "+37067817147",
+    "email": "d.abolichin@gmail.com",
+    "other": []
+  },
+  "location": {
+    "address": "Smolensko str. 10D- 29",
+    "city": "Vilnius",
+    "region": "Vilnius",
+    "code": "03234",
+    "country": "LT"
+  },
+  "social": [
+    {
+      "label": "Github",
+      "network": "GitHub",
+      "user": "dabolichin",
+      "url": "https://github.com/dabolichin"
+    },
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "dirolwhite",
+      "url": "https://twitter.com/dirolwhite"
+    }
+  ],
+  "employment": {
+    "summary": "I'm professional with 12+ years experience finding clever solutions to complex problems in a variety of different realms.",
+    "history": [
+      {
+        "employer": "Storebrand",
+        "url": "http://www.storebrand.no/",
+        "position": "ECM Group Leader",
+        "summary": "The Storebrand Group is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management. Storebrand ECM (Enterprise Content Management) group is responsible for providing services for Storebrand's documents production, content management, distribution to customers, documents storage and search. In Storebrand ECM group I am responsible for ECM Baltic team operations and delivery and for technical implementation and maintenance of ECM platform which is key factor for digitizing and automating documents production in Storebrand.",
+        "start": "2014-03",
+        "keywords": [
+          "Agile",
+          "Java",
+          "JavaRx",
+          "Reactive",
+          "Vert.x",
+          "Distributed",
+          "Hystrix",
+          "Documents",
+          "Gradle"
+        ],
+        "highlights": [
+          "Leading the development of ECM Platform - distributed documents production pipeline involving integrations with core systems and third-party distribution channels",
+          "Managing cross-functional team of Java, .NET and document developers and business analysts",
+          "Assisting in recruitment processes and Storebrand Baltic IT build-up",
+          "Assisting in establishing best management practices in Storebrand Baltic IT",
+          "Optimizing cross-country operational model",
+          "Adopting agile culture (Scrum, Kanban, XP) and frameworks in ECM group"
+        ]
+      },
+      {
+        "employer": "EIS Group",
+        "url": "https://www.eisgroup.com/",
+        "position": "Lead Systems Architect",
+        "summary": "EIS Group provides capabilities and solutions to insurers that enable growth and help them meet their goals for operational and cost efficiency. In EIS Group I was responsible for design and architecture of new EIS Solution module - Commercial Lines Insurance.",
+        "start": "2013-09",
+        "end": "2014-03",
+        "keywords": [
+          "Java",
+          "Insurance",
+          "Commercial",
+          "Spring",
+          "Architecture",
+          "Requirements"
+        ],
+        "highlights": [
+          "Performed business requirements analysis",
+          "Was leading implementation of Commercial Lines POC solution",
+          "Defined architecture for the Commercial Lines solution"
+        ]
+      },
+      {
+        "employer": "FICO",
+        "url": "http://www.fico.com/",
+        "position": "Solutions Integration Lead Consultant",
+        "summary": "FICO is a leading analytics software company, helping businesses in 90+ countries make better decisions that drive higher levels of growth, profitability and customer satisfaction. In FICO I was responsible for predictive analytics solutions integration and implementation for Banks in EMEA region.",
+        "start": "2013-05",
+        "end": "2013-09",
+        "keywords": [
+          "Analytics",
+          "Java",
+          "Banking",
+          "Integration"
+        ],
+        "highlights": [
+          "Defined the technical design of integration solutions",
+          "Integrated solutions into customer's environment",
+          "Customized legacy FICO solutions to support customer requirements (both back-end and front-end)",
+          "Was supporting and consulting customers about FICO solutions",
+          "Mentored junior colleagues"
+        ]
+      },
+      {
+        "employer": "Exigen Services Lietuva",
+        "url": "http://www.exigenservices.lv/",
+        "position": "Systems Architect, Product Factory Team Leader, Lead Developer",
+        "summary": "Exigen Services (re-branded later to EIS) is a global technology services firm. It provides technology consulting, systems integration and commercial software solutions. Lithuanian Branch was responsible mainly for Insurance Solutions. In Exigen Services I was responsible for architecture and implementation of new core component - Product Factory. Here I was leading the team which successfully implemented and maintained this component, which became one the main selling points for a company. Product is used by insurance companies all over the world (Chartis, AAA, NBIC, Hollard, AMI, etc.).",
+        "start": "2008-04",
+        "end": "2013-05",
+        "keywords": [
+          "Agile",
+          "Java",
+          "Spring",
+          "Insurance",
+          "Enterprise",
+          "Framework",
+          "Architecture",
+          "Requirements"
+        ],
+        "highlights": [
+          "Defined system design and architecture",
+          "Leaded POC solution implementation",
+          "Was leading the team of Java developers and testers",
+          "Was coaching the team",
+          "Leaded front-end and back-end implementation",
+          "Was responsible for communication between dependent project teams",
+          "Adopted Agile frameworks and practices (Scrum, Kanban, XP) in day-to-day operation",
+          "Was acting as Product Owner Proxy and specifying User stories (both technical and non-technical)",
+          "Was responsible for project planning, monitoring and reporting to upper management"
+        ]
+      },
+      {
+        "employer": "Informacinių Projektų Sistemos",
+        "url": "",
+        "position": "Developer, Team leader",
+        "summary": "Informacinių Projektų Sistemos (IPS) was a small Lithuania company offering insurers agile and feature-rich insurance solution for Policy and Claims administration (both P&C and Life insurance) - DIS. Product was used by leading Lithuanian and Latvian insurance companies (ERGO LT, ERGO LV, PZU LT). I have started in IPS as a developer responsible for variety of inner components and later started leading small team of developers and acting as a main customers' contact for technical details. Later IPS was merged with Assecco Lithuania.",
+        "start": "2003-11",
+        "end": "2008-04",
+        "keywords": [
+          "Insurance",
+          "Solution",
+          "Smalltalk"
+        ],
+        "highlights": [
+          "Implemented and maintained key parts of Insurance solution - DIS",
+          "Integrated Insurance solution with third-party vendors",
+          "Supported and consulted customers on daily basis",
+          "Performed analysis of customers' requirements",
+          "Specified requirements for later feature development",
+          "Was planning the releases",
+          "Managed small team of developers and testers"
+        ]
+      },
+      {
+        "employer": "4Team Corporation",
+        "url": "http://4team.biz/",
+        "position": "Consultant, Support Technician",
+        "summary": "4Team Corporation is a Microsoft Partner and independent software vendor for enterprises and individuals. With over 12 years of experience, developing software for Microsoft Windows and Add-ins for Microsoft Outlook 4Team served hundreds of thousands customers around the world. This was my first job in IT, I was performing technical support and customers consultancy for small business utilities.",
+        "start": "2003-01",
+        "end": "2003-06",
+        "keywords": [
+          "Support",
+          "Consultancy",
+          "Outlook"
+        ],
+        "highlights": [
+          "Consulted customers about functionality of 4Team software",
+          "Solved technical issues, was tracking bugs found by customers"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Knowledge Testing Application for driving schools",
+      "category": "Web application",
+      "url": "",
+      "repo": "",
+      "media": [],
+      "role": "Creator",
+      "summary": "Designed and implemented application for testing driving schools' students. ",
+      "description": "Knowledge Testing Application supports managing students, their exams results, generating tests for learning and administrator module for managing exams/learning materials.",
+      "highlights": [
+        "Defined architecture and solution",
+        "Implemented solution and is responsible for it's maintenance"
+      ],
+      "keywords": [
+        "KET",
+        "Tests",
+        "Exams",
+        "Java",
+        "Vaadin"
+      ]
+    }
+  ],
+
+  "education": {
+    "summary": "Master of Computer Science.",
+    "level": "degree",
+    "degree": "CMS",
+    "history": [
+      {
+        "institution": "Scrum Alliance",
+        "title": "Certified Scrum Master",
+        "url": "https://www.scrumalliance.org/",
+        "start": "2012-04",
+        "end": "2012-04",
+        "grade": "",
+        "summary": "License nr. 000190395",
+        "curriculum": [
+        ]
+      },
+      {
+        "institution": "Vilnius University",
+        "title": "Master of Computer Science",
+        "url": "http://www.vu.lt/",
+        "start": "2004-09",
+        "end": "2006-07",
+        "grade": "",
+        "summary": "",
+        "curriculum": [
+        ]
+      },
+      {
+        "institution": "Vilnius University",
+        "title": "Bachelor of Computer Science",
+        "url": "http://www.vu.lt/",
+        "start": "2000-09",
+        "end": "2000-07",
+        "grade": "",
+        "summary": "",
+        "curriculum": [
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Back-end Development on JVM",
+        "level": "advanced",
+        "skills": [
+          "Java",
+          "Groovy",
+          "Scala",
+          "RESTful WS",
+          "SOAP WS",
+          "XML",
+          "XSD",
+          "SQL",
+          "Spring",
+          "Spring security",
+          "Spring integration",
+          "Spring batch",
+          "Javaslang",
+          "Hystrix",
+          "JUnit",
+          "Mockito",
+          "Spock",
+          "Selenium/Web driver",
+          "Maven",
+          "Gradle"
+        ]
+      },
+      {
+        "name": "Back-end Development on Node.js",
+        "level": "intermediate",
+        "skills": [
+          "npm",
+          "Gulp.js",
+          "Grunt.js",
+          "Yeoman",
+          "Jasmine",
+          "JSON"
+        ]
+      },
+      {
+        "name": "RDBMS",
+        "level": "advanced",
+        "skills": [
+          "Oracle",
+          "MS SQL",
+          "MySQL",
+          "H2",
+          "JPA",
+          "Hibernate"
+        ]
+      },
+      {
+        "name": "NoSQL",
+        "level": "advanced",
+        "skills": [
+          "MongoDb",
+          "Couchbase"
+        ]
+      },
+      {
+        "name": "Web Development",
+        "level": "intermediate",
+        "skills": [
+          "HTML",
+          "Javascript",
+          "Handlebars.js",
+          "Polymer",
+          "CSS",
+          "SASS",
+          "Bower",
+          "Servlets",
+          "Backbone.js",
+          "Vaadin",
+          "Wicket",
+          "JSP",
+          "JSF/Facelets",
+          "Richfaces",
+          "Primefaces"
+        ]
+      },
+      {
+        "name": "Reactive functional programming",
+        "level": "advanced",
+        "skills": [
+          "RxJava",
+          "RxJs",
+          "Reactive streams"
+        ]
+      },
+      {
+        "name": "Source code management",
+        "level": "advanced",
+        "skills": [
+          "Git",
+          "Mercurial",
+          "SVN"
+        ]
+      },
+      {
+        "name": "Continuous integration tools",
+        "level": "intermediate",
+        "skills": [
+          "Bamboo",
+          "Jenkins"
+        ]
+      }
+    ],
+    "list": []
+  },
+  "languages": [
+    {
+      "language": "Lithuanian",
+      "level": "Fluent/Native"
+    },
+    {
+      "language": "Russian",
+      "level": "Fluent/Native"
+    },
+    {
+      "language": "English",
+      "level": "fluent"
+    },
+    {
+      "language": "Norwegian",
+      "level": "basics"
+    },
+    {
+      "language": "Spanish",
+      "level": "basics"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Chess",
+      "summary": "Used to be professional chess player.",
+      "keywords": [
+        "board",
+        "blitz",
+        "opening"
+      ]
+    },
+    {
+      "name": "Basketball",
+      "summary": "Playing basketball in amateur leagues",
+      "keywords": [
+        "dunk",
+        "crossover",
+        "coach"
+      ]
+    },
+    {
+      "name": "Snowboarding",
+      "summary": "I love snow and mountains",
+      "keywords": [
+        "freeride",
+        "nature",
+        "mountains"
+      ]
+    },
+    {
+      "name": "Traveling",
+      "summary": "This is where I take inspiration",
+      "keywords": [
+        "world",
+        "adventure"
+      ]
+    }
+  ]
+}
