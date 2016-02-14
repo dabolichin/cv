@@ -10,7 +10,7 @@
     "image": ""
   },
   "contact": {
-    "website": "https://twitter.com/dirolwhite",
+    "website": "",
     "phone": "+37067817147",
     "email": "d.abolichin@gmail.com",
     "other": []
@@ -23,12 +23,6 @@
     "country": "Lithuania"
   },
   "social": [
-    {
-      "label": "github",
-      "network": "Github",
-      "user": "dabolichin",
-      "url": "https://github.com/dabolichin"
-    },
     {
       "label": "twitter",
       "network": "Twitter",
