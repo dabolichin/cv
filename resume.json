@@ -49,7 +49,7 @@
         "employer": "Storebrand",
         "url": "http://www.storebrand.no/",
         "position": "ECM Group Leader",
-        "summary": "The Storebrand Group is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management. Storebrand ECM (Enterprise Content Management) group is responsible for providing services for Storebrand's documents production, content management, distribution to customers, documents storage and search. In Storebrand ECM group I am responsible for ECM Baltic team operations and delivery and for technical implementation and maintenance of ECM platform which is key factor for digitizing and automating documents production in Storebrand.",
+        "summary": "The Storebrand Group is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management. Storebrand ECM (Enterprise Content Management) group is responsible for providing services for Storebrand's documents production, content management, distribution to customers, documents storage and search.<br>In Storebrand ECM group I am responsible for ECM Baltic team operations and delivery and for technical implementation and maintenance of ECM platform which is key factor for digitizing and automating documents production in Storebrand.",
         "start": "2014-03",
         "keywords": [
           "Agile",
@@ -75,7 +75,7 @@
         "employer": "EIS Group",
         "url": "https://www.eisgroup.com/",
         "position": "Lead Systems Architect",
-        "summary": "EIS Group provides capabilities and solutions to insurers that enable growth and help them meet their goals for operational and cost efficiency. In EIS Group I was responsible for design and architecture of new EIS Solution module - Commercial Lines Insurance.",
+        "summary": "EIS Group provides capabilities and solutions to insurers that enable growth and help them meet their goals for operational and cost efficiency.<br>In EIS Group I was responsible for design and architecture of new EIS Solution module - Commercial Lines Insurance.",
         "start": "2013-09",
         "end": "2014-03",
         "keywords": [
@@ -96,7 +96,7 @@
         "employer": "FICO",
         "url": "http://www.fico.com/",
         "position": "Solutions Integration Lead Consultant",
-        "summary": "FICO is a leading analytics software company, helping businesses in 90+ countries make better decisions that drive higher levels of growth, profitability and customer satisfaction. In FICO I was responsible for predictive analytics solutions integration and implementation for Banks in EMEA region.",
+        "summary": "FICO is a leading analytics software company, helping businesses in 90+ countries make better decisions that drive higher levels of growth, profitability and customer satisfaction.<br>In FICO I was responsible for predictive analytics solutions integration and implementation for Banks in EMEA region.",
         "start": "2013-05",
         "end": "2013-09",
         "keywords": [
@@ -117,7 +117,7 @@
         "employer": "Exigen Services Lietuva",
         "url": "http://www.exigenservices.lv/",
         "position": "Systems Architect, Product Factory Team Leader, Lead Developer",
-        "summary": "Exigen Services (re-branded later to EIS) is a global technology services firm. It provides technology consulting, systems integration and commercial software solutions. Lithuanian Branch was responsible mainly for Insurance Solutions. In Exigen Services I was responsible for architecture and implementation of new core component - Product Factory. Here I was leading the team which successfully implemented and maintained this component, which became one the main selling points for a company. Product is used by insurance companies all over the world (Chartis, AAA, NBIC, Hollard, AMI, etc.).",
+        "summary": "Exigen Services (re-branded later to EIS) is a global technology services firm. It provides technology consulting, systems integration and commercial software solutions. Lithuanian Branch was responsible mainly for Insurance Solutions.<br>In Exigen Services I was responsible for architecture and implementation of new core component - Product Factory. Here I was leading the team which successfully implemented and maintained this component, which became one the main selling points for a company.<br>Product is used by insurance companies all over the world (Chartis, AAA, NBIC, Hollard, AMI, etc.).",
         "start": "2008-04",
         "end": "2013-05",
         "keywords": [
@@ -146,7 +146,7 @@
         "employer": "Informacinių Projektų Sistemos",
         "url": "",
         "position": "Developer, Team leader",
-        "summary": "Informacinių Projektų Sistemos (IPS) was a small Lithuania company offering insurers agile and feature-rich insurance solution for Policy and Claims administration (both P&C and Life insurance) - DIS. Product was used by leading Lithuanian and Latvian insurance companies (ERGO LT, ERGO LV, PZU LT). I have started in IPS as a developer responsible for variety of inner components and later started leading small team of developers and acting as a main customers' contact for technical details. Later IPS was merged with Assecco Lithuania.",
+        "summary": "Informacinių Projektų Sistemos (IPS) was a small Lithuania company offering insurers agile and feature-rich insurance solution for Policy and Claims administration (both P&C and Life insurance) - DIS. Product was used by leading Lithuanian and Latvian insurance companies (ERGO LT, ERGO LV, PZU LT).<br>I have started in IPS as a developer responsible for variety of inner components and later started leading small team of developers and acting as a main customers' contact for technical details. Later IPS was merged with Assecco Lithuania.",
         "start": "2003-11",
         "end": "2008-04",
         "keywords": [
@@ -168,7 +168,7 @@
         "employer": "4Team Corporation",
         "url": "http://4team.biz/",
         "position": "Consultant, Support Technician",
-        "summary": "4Team Corporation is a Microsoft Partner and independent software vendor for enterprises and individuals. With over 12 years of experience, developing software for Microsoft Windows and Add-ins for Microsoft Outlook 4Team served hundreds of thousands customers around the world. This was my first job in IT, I was performing technical support and customers consultancy for small business utilities.",
+        "summary": "4Team Corporation is a Microsoft Partner and independent software vendor for enterprises and individuals. With over 12 years of experience, developing software for Microsoft Windows and Add-ins for Microsoft Outlook 4Team served hundreds of thousands customers around the world.<br>This was my first job in IT, I was performing technical support and customers consultancy for small business utilities.",
         "start": "2003-01",
         "end": "2003-06",
         "keywords": [
@@ -190,10 +190,10 @@
       "url": "",
       "repo": "",
       "media": [],
-      "role": "Author",
+      "role": "Contractor",
       "start": "2011-03",
       "end": "2011-10",
-      "summary": "Designed and implemented web application for testing driving schools' students. It supports managing students, their exams results, generating tests for learning and administrator module for managing exams/learning materials.",
+      "summary": "Designed and implemented web application for testing driving schools' students.<br>It supports managing students, their exams results, generating tests for learning and administrator module for managing exams/learning materials.",
       "description": "Knowledge Testing Application supports managing students, their exams results, generating tests for learning and administrator module for managing exams/learning materials.",
       "highlights": [
         "Defined architecture and solution",
