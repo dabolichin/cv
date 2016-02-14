@@ -24,19 +24,19 @@
   },
   "social": [
     {
-      "label": "Github",
-      "network": "GitHub",
+      "label": "github",
+      "network": "Github",
       "user": "dabolichin",
       "url": "https://github.com/dabolichin"
     },
     {
-      "label": "Twitter",
+      "label": "twitter",
       "network": "Twitter",
       "user": "dirolwhite",
       "url": "https://twitter.com/dirolwhite"
     },
     {
-      "label": "Linkedin",
+      "label": "linkedin",
       "network": "Linkedin",
       "user": "d.abolichin@gmail.com",
       "url": "https://lt.linkedin.com/in/dmitrij-abolichin-9107492"
@@ -88,7 +88,7 @@
         ],
         "highlights": [
           "Performed business requirements analysis",
-          "Was leading implementation of Commercial Lines POC solution",
+          "Leaded implementation of Commercial Lines POC solution",
           "Defined architecture for the Commercial Lines solution"
         ]
       },
@@ -136,9 +136,9 @@
           "Was leading the team of Java developers and testers",
           "Was coaching the team",
           "Leaded front-end and back-end implementation",
-          "Was responsible for communication between dependent project teams",
+          "Took care of communication between dependent project teams",
           "Adopted Agile frameworks and practices (Scrum, Kanban, XP) in day-to-day operation",
-          "Was acting as Product Owner Proxy and specifying User stories (both technical and non-technical)",
+          "Acted as Product Owner Proxy and specifying User stories (both technical and non-technical)",
           "Was responsible for project planning, monitoring and reporting to upper management"
         ]
       },
