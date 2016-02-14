@@ -18,9 +18,9 @@
   "location": {
     "address": "Smolensko str. 10D- 29",
     "city": "Vilnius",
-    "region": "Vilnius",
+    "region": "",
     "code": "03234",
-    "country": "LT"
+    "country": "Lithuania"
   },
   "social": [
     {
@@ -34,6 +34,12 @@
       "network": "Twitter",
       "user": "dirolwhite",
       "url": "https://twitter.com/dirolwhite"
+    },
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "user": "d.abolichin@gmail.com",
+      "url": "https://lt.linkedin.com/in/dmitrij-abolichin-9107492"
     }
   ],
   "employment": {
@@ -184,8 +190,10 @@
       "url": "",
       "repo": "",
       "media": [],
-      "role": "Creator",
-      "summary": "Designed and implemented application for testing driving schools' students. ",
+      "role": "Author",
+      "start": "2011-03",
+      "end": "2011-10",
+      "summary": "Designed and implemented web application for testing driving schools' students. It supports managing students, their exams results, generating tests for learning and administrator module for managing exams/learning materials.",
       "description": "Knowledge Testing Application supports managing students, their exams results, generating tests for learning and administrator module for managing exams/learning materials.",
       "highlights": [
         "Defined architecture and solution",
@@ -212,7 +220,6 @@
         "url": "https://www.scrumalliance.org/",
         "start": "2012-04",
         "end": "2012-04",
-        "grade": "",
         "summary": "License nr. 000190395",
         "curriculum": [
         ]
@@ -223,7 +230,7 @@
         "url": "http://www.vu.lt/",
         "start": "2004-09",
         "end": "2006-07",
-        "grade": "",
+        "grade": "2.0",
         "summary": "",
         "curriculum": [
         ]
@@ -234,7 +241,7 @@
         "url": "http://www.vu.lt/",
         "start": "2000-09",
         "end": "2004-07",
-        "grade": "",
+        "grade": "4.0",
         "summary": "",
         "curriculum": [
         ]
@@ -323,7 +330,7 @@
         ]
       },
       {
-        "name": "Reactive functional programming",
+        "name": "Reactive programming",
         "level": "advanced",
         "skills": [
           "RxJava",
@@ -347,6 +354,15 @@
           "Bamboo",
           "Jenkins"
         ]
+      },
+      {
+        "name": "Project management tools",
+        "level": "intermediate",
+        "skills": [
+          "Jira",
+          "Trello",
+          "Requisite Pro"
+        ]
       }
     ],
     "list": []
@@ -362,15 +378,15 @@
     },
     {
       "language": "English",
-      "level": "fluent"
+      "level": "Fluent"
     },
     {
       "language": "Norwegian",
-      "level": "basics"
+      "level": "Basics"
     },
     {
       "language": "Spanish",
-      "level": "basics"
+      "level": "Basics"
     }
   ],
   "interests": [
