@@ -342,7 +342,7 @@
         ]
       },
       {
-        "name": "Continuous integration tools",
+        "name": "Continuous integration",
         "level": "intermediate",
         "skills": [
           "Bamboo",
@@ -350,7 +350,16 @@
         ]
       },
       {
-        "name": "Project management tools",
+        "name": "Configuration management",
+        "level": "intermediate",
+        "skills": [
+          "Puppet",
+          "Vagrant",
+          "Docker"
+        ]
+      },
+      {
+        "name": "Project management",
         "level": "intermediate",
         "skills": [
           "Jira",
