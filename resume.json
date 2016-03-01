@@ -34,6 +34,12 @@
       "network": "Linkedin",
       "user": "d.abolichin@gmail.com",
       "url": "https://lt.linkedin.com/in/dmitrij-abolichin-9107492"
+    },
+    {
+      "label": "github",
+      "network": "Github",
+      "user": "dabolichin",
+      "url": "https://github.com/dabolichin"
     }
   ],
   "employment": {
@@ -300,6 +306,15 @@
         "skills": [
           "MongoDb",
           "Couchbase"
+        ]
+      },
+      {
+        "name": "Messaging",
+        "level": "intermediate",
+        "skills": [
+          "RabbitMQ",
+          "ActiveMQ",
+          "WebSphere MQ"
         ]
       },
       {
