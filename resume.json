@@ -6,7 +6,7 @@
   },
   "info": {
     "label": "Engineering Manager, Systems Architect",
-    "brief": "Solving problems and making someone's life better - this is what I'm passionate about. I am achieving this by building classy software and improving the ways of how this can be done. I am crazy about quality and automation, most of the things in IT just cannot be done in other way. Continuous improvement is another key factor in my life, this is why I never stop learning and applying new knowledge everywhere I can.",
+    "brief": "Solving problems and making someone's life better - this is what I'm passionate about. I trying to achieve this by building classy software and improving the ways of how this can be done. I am crazy about quality and automation, most of the things in IT just cannot be done in other way. Continuous improvement is another key factor in my life, this is why I never stop learning and applying new knowledge everywhere I can.",
     "image": ""
   },
   "contact": {
@@ -49,7 +49,7 @@
         "employer": "Storebrand",
         "url": "http://www.storebrand.no/",
         "position": "ECM Group Leader",
-        "summary": "The Storebrand Group is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management. Storebrand ECM (Enterprise Content Management) group is responsible for providing services for Storebrand's documents production, content management, distribution to customers, documents storage and search.<br>In Storebrand ECM group I am responsible for ECM Baltic team operations and delivery and for technical implementation and maintenance of ECM platform which is key factor for digitizing and automating documents production in Storebrand.",
+        "summary": "Storebrand is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management. Storebrand ECM (Enterprise Content Management) group is responsible for providing services for Storebrand's documents production, content management, distribution to customers, documents storage and search.<br>In Storebrand ECM group I am leading ECM Baltic team operations/delivery and is responsible for technical implementation and maintenance of ECM platform which is key factor for digitizing and automating documents production in Storebrand.",
         "start": "2014-03",
         "keywords": [
           "Agile",
@@ -96,7 +96,7 @@
         "employer": "FICO",
         "url": "http://www.fico.com/",
         "position": "Solutions Integration Lead Consultant",
-        "summary": "FICO is a leading analytics software company, helping businesses in 90+ countries make better decisions that drive higher levels of growth, profitability and customer satisfaction.<br>In FICO I was responsible for predictive analytics solutions integration and implementation for Banks in EMEA region.",
+        "summary": "FICO is a leading analytics software company, helping businesses in 90+ countries make better decisions that drive higher levels of growth, profitability and customer satisfaction.<br>In FICO I have implemented few integrations for predictive analytics solutions in few EMEA region Banks.",
         "start": "2013-05",
         "end": "2013-09",
         "keywords": [
@@ -117,7 +117,7 @@
         "employer": "Exigen Services Lietuva",
         "url": "http://www.exigenservices.lv/",
         "position": "Systems Architect, Product Factory Team Leader, Lead Developer",
-        "summary": "Exigen Services (re-branded later to EIS) is a global technology services firm. It provides technology consulting, systems integration and commercial software solutions. Lithuanian Branch was responsible mainly for Insurance Solutions.<br>In Exigen Services I was responsible for architecture and implementation of new core component - Product Factory. Here I was leading the team which successfully implemented and maintained this component, which became one the main selling points for a company.<br>Product is used by insurance companies all over the world (Chartis, AAA, NBIC, Hollard, AMI, etc.).",
+        "summary": "Exigen Services (re-branded later to EIS) is a global technology services firm. It provides technology consulting, systems integration and commercial software solutions. Lithuanian Branch was responsible mainly for Insurance Solutions.<br>In Exigen Services I was leading the team which successfully implemented and maintained new core component - Product Factory. This component became one of the main selling points for Insurance solution.<br>Product is used by insurance companies all over the world (Chartis, AAA, NBIC, Hollard, AMI, etc.).",
         "start": "2008-04",
         "end": "2013-05",
         "keywords": [
@@ -187,7 +187,7 @@
     {
       "title": "Knowledge Testing Application for driving schools",
       "category": "Web application",
-      "url": "",
+      "url": "#",
       "repo": "",
       "media": [],
       "role": "Contractor",
